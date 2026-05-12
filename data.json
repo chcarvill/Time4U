@@ -1,0 +1,79 @@
+{
+  "categories": [
+    {
+      "id": "quick",
+      "icon": "⚡",
+      "color": "#FDF3E3",
+      "iconColor": "#92400E",
+      "title": "Quick reset",
+      "sub": "Under 2 minutes",
+      "activities": [
+        { "name": "Box breathing", "desc": "Inhale 4 counts, hold 4, exhale 4, hold 4. Repeat 3 times. Instantly calms the nervous system.", "timer": 90 },
+        { "name": "Posture rebalancing", "desc": "Stand or sit tall. Roll your shoulders back and down, gently lift the crown of your head, and take three slow breaths in the new alignment.", "timer": 60 },
+        { "name": "Self-hug", "desc": "Wrap your arms around yourself and squeeze firmly. Hold for 30 seconds, breathing slowly. A real physical signal of safety to your body.", "timer": 30 },
+        { "name": "Shoulder rub", "desc": "Use your opposite hand to firmly knead the top of each shoulder and the back of your neck. Spend 30 seconds each side.", "timer": 60 },
+        { "name": "Cold water on wrists", "desc": "Run cold water over the inside of your wrists and behind your ears for 30 seconds. Activates the vagus nerve.", "timer": 30 }
+      ]
+    },
+    {
+      "id": "five",
+      "icon": "🌿",
+      "color": "#E8F5EE",
+      "iconColor": "#155E3A",
+      "title": "5 min chillout",
+      "sub": "Just enough to shift the state",
+      "activities": [
+        { "name": "Observing scenery", "desc": "Go to a window or step outside. Look at whatever is in front of you — sky, trees, street — without agenda. Let your eyes go soft and wide.", "timer": 300 },
+        { "name": "Watch a short relaxation video", "desc": "Put on a 5-minute guided breathwork, nature sounds, or body scan video. Lie down if you can. Just receive it.", "timer": 300 },
+        { "name": "Quick tai chi", "desc": "A slow, flowing sequence of arm circles, weight shifts and gentle turns. No experience needed — move as slowly as feels natural.", "timer": 300 },
+        { "name": "Play 5 min online game", "desc": "Pick something light and absorbing — a word game, puzzle or casual game. Enough to redirect your mind without a big commitment.", "timer": 300 },
+        { "name": "Shaking it out", "desc": "Stand up and shake your hands, arms, then whole body loosely for 2–3 minutes. Releases stored physical tension.", "timer": 180 }
+      ]
+    },
+    {
+      "id": "ten",
+      "icon": "↻",
+      "color": "#EEF0FC",
+      "iconColor": "#3730A3",
+      "title": "10 min reset",
+      "sub": "A proper pause",
+      "activities": [
+        { "name": "Yin stretch — hips & spine", "desc": "Child's pose (2 min), seated spinal twist each side (2 min), legs up the wall (4 min). Slow, passive holds.", "timer": 480 },
+        { "name": "Self-acupressure", "desc": "Press firmly on the space between your thumb and index finger (He Gu point). Hold 30–60 sec each hand. Then press the point 3 finger-widths below your kneecap.", "timer": 300 },
+        { "name": "Slow walking meditation", "desc": "Walk very slowly indoors or outside. Feel each foot make contact with the ground. No destination, no pace.", "timer": 600 },
+        { "name": "Listen to favourite tunes", "desc": "Put on a song or two that you genuinely love. Sit or lie down. Let the music be the only thing happening.", "timer": 600 },
+        { "name": "Mindful spreadeagle", "desc": "Lie flat on your back, arms and legs wide. Close your eyes. Feel every point of contact between your body and the floor. Breathe and do absolutely nothing.", "timer": 600 }
+      ]
+    },
+    {
+      "id": "twenty",
+      "icon": "〜",
+      "color": "#E8F0FB",
+      "iconColor": "#1E40AF",
+      "title": "20 min deep retune",
+      "sub": "When you need a real reset",
+      "activities": [
+        { "name": "Full body stretching flow", "desc": "A slow, unguided sequence: neck rolls, chest opener, forward fold, hip flexor stretch, pigeon pose, supine twist, savasana. Hold each 1–2 minutes.", "timer": 1200 },
+        { "name": "Mindful strolling", "desc": "Head outside with no destination. Walk at whatever pace feels right. Notice what you see, hear and smell. No podcasts, no phone.", "timer": 1200 },
+        { "name": "Watch comedy", "desc": "Put on a short stand-up clip or a favourite funny show. Laughter is genuinely decompressive — let yourself enjoy it without guilt.", "timer": 1200 },
+        { "name": "Play instrument", "desc": "Pick up whatever you play and just explore — pieces you know well, improvise, or noodle freely. No practising, no pressure. Just the feel of it.", "timer": 1200 },
+        { "name": "Tidy up", "desc": "Pick one small area — a desk, a bench, a shelf. Slow, deliberate tidying can be deeply calming. Physical order, mental order.", "timer": 1200 }
+      ]
+    },
+    {
+      "id": "three",
+      "icon": "☀",
+      "color": "#FEF0ED",
+      "iconColor": "#9A3412",
+      "title": "3 hour overhaul",
+      "sub": "Full restoration mode",
+      "activities": [
+        { "name": "Time for solitude", "desc": "Carve out unstructured time alone — no agenda, no screens unless you want them. Read, wander, sit in the garden, stare at the ceiling. Just be.", "timer": null },
+        { "name": "Group nature walk", "desc": "Organise a walk with people you like in a park, bushland or along the water. Conversation plus movement plus nature is a powerful combination.", "timer": null },
+        { "name": "Evening out", "desc": "Get out of the house — dinner, a gallery, live music, a film. A change of scene and a bit of occasion can shift your entire register.", "timer": null },
+        { "name": "Watch a movie", "desc": "Pick something you've been meaning to watch. Make it comfortable — snacks, blanket, lights low. Full commitment, no multitasking.", "timer": null },
+        { "name": "Catch up with a friend", "desc": "Call or meet someone you actually feel good around. Not to solve anything — just to connect, laugh and be known by someone.", "timer": null }
+      ]
+    }
+  ]
+}
