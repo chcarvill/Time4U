@@ -2,7 +2,7 @@
   "name": "Time4U",
   "short_name": "T4U",
   "description": "Your personal reset toolkit \u2014 body-based ways to decompress, sorted by how much time you have.",
-  "start_url": "/",
+  "start_url": "/Time4U/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#F7F5F0",
@@ -20,5 +20,6 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
-  ]
+  ],
+  "scope": "/Time4U/"
 }

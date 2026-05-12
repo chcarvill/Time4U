@@ -1,12 +1,12 @@
 const CACHE = 'time4u-v1';
 const ASSETS = [
-  '/',
-  '/index.html',
-  '/app.js',
-  '/data.json',
-  '/icon-192.png',
-  '/icon-512.png',
-  '/manifest.json',
+  '/Time4U/',
+  '/Time4U/index.html',
+  '/Time4U/app.js',
+  '/Time4U/data.json',
+  '/Time4U/icon-192.png',
+  '/Time4U/icon-512.png',
+  '/Time4U/manifest.json',
   'https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@400;500&display=swap'
 ];
 
